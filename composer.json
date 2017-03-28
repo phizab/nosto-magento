@@ -13,7 +13,7 @@
         "nosto/php-sdk": "1.16.2"
     },
     "require-dev": {
-        "mridang/magazine": "0.1",
+        "mridang/magazine": "0.2",
         "phing/phing": "2.*"
     },
     "config": {

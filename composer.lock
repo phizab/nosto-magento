@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c873258abc301b07f45e856b19df4da6",
-    "content-hash": "19ecd1c75a18249179bfd650765e237e",
+    "hash": "eea8c209d1172cc170df0b1f8bdc1080",
+    "content-hash": "9f59b4e47689f048fe29f202483f6923",
     "packages": [
         {
             "name": "nosto/php-sdk",
@@ -37,16 +37,16 @@
     "packages-dev": [
         {
             "name": "mridang/magazine",
-            "version": "0.1",
+            "version": "0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mridang/magazine.git",
-                "reference": "6078e4517e8836ef7a299f3f2a7401f35bdc5d71"
+                "reference": "5b3cfecc472c61fde6af63efe62690a30a267a04"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mridang/magazine/zipball/6078e4517e8836ef7a299f3f2a7401f35bdc5d71",
-                "reference": "6078e4517e8836ef7a299f3f2a7401f35bdc5d71",
+                "url": "https://api.github.com/repos/mridang/magazine/zipball/5b3cfecc472c61fde6af63efe62690a30a267a04",
+                "reference": "5b3cfecc472c61fde6af63efe62690a30a267a04",
                 "shasum": ""
             },
             "require": {
@@ -84,9 +84,9 @@
             ],
             "support": {
                 "issues": "https://github.com/mridang/magazine/issues",
-                "source": "https://github.com/mridang/magazine/tree/0.1"
+                "source": "https://github.com/mridang/magazine/tree/0.2"
             },
-            "time": "2016-10-07 08:04:43"
+            "time": "2017-03-28 09:15:44"
         },
         {
             "name": "phing/phing",
